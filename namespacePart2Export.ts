@@ -1,4 +1,4 @@
-/* one more method in existing namespace */
+/* export one more method */
 
 import {nsStudent} from './namespaceExport'
 
